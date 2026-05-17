@@ -1,0 +1,3 @@
+Prompt utilizado:
+
+"Crea una aplicación en Streamlit que cargue modelos .pkl de Logistic Regression y Random Forest para predecir enfermedad cardíaca usando inputs numéricos y un selector de modelos."
